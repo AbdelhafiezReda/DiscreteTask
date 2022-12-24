@@ -1,0 +1,8 @@
+C:\Users\amrbe\source\repos\Prime_Perfect\Prime_Perfect\bin\Debug\Prime_Perfect.exe.config
+C:\Users\amrbe\source\repos\Prime_Perfect\Prime_Perfect\bin\Debug\Prime_Perfect.exe
+C:\Users\amrbe\source\repos\Prime_Perfect\Prime_Perfect\bin\Debug\Prime_Perfect.pdb
+C:\Users\amrbe\source\repos\Prime_Perfect\Prime_Perfect\obj\Debug\Prime_Perfect.csproj.AssemblyReference.cache
+C:\Users\amrbe\source\repos\Prime_Perfect\Prime_Perfect\obj\Debug\Prime_Perfect.csproj.SuggestedBindingRedirects.cache
+C:\Users\amrbe\source\repos\Prime_Perfect\Prime_Perfect\obj\Debug\Prime_Perfect.csproj.CoreCompileInputs.cache
+C:\Users\amrbe\source\repos\Prime_Perfect\Prime_Perfect\obj\Debug\Prime_Perfect.exe
+C:\Users\amrbe\source\repos\Prime_Perfect\Prime_Perfect\obj\Debug\Prime_Perfect.pdb
